@@ -1,0 +1,16 @@
+# data
+CDIs_images_nifti/
+*.nii
+*.nii.gz
+*.zip
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# misc
+.DS_Store
